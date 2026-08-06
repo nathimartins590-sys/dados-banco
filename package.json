@@ -1,0 +1,21 @@
+{
+  "name": "dados-banco",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nathimartins590-sys/dados-banco#readme",
+  "bugs": {
+    "url": "https://github.com/nathimartins590-sys/dados-banco/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathimartins590-sys/dados-banco.git"
+  },
+  "license": "ISC",
+  "author": "Nathalia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node --watch index.js"
+  }
+}
